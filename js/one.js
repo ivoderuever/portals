@@ -1,0 +1,1 @@
+generatePoral('two.html');
