@@ -1,1 +1,2 @@
+backgroundColor();
 generatePoral('two.html');
